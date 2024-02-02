@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ArtemiuszKuzniecow/omnis-test/static/css/main.31e78005.css",
-    "main.js": "/ArtemiuszKuzniecow/omnis-test/static/js/main.c98ef8d7.js",
-    "index.html": "/ArtemiuszKuzniecow/omnis-test/index.html",
-    "main.31e78005.css.map": "/ArtemiuszKuzniecow/omnis-test/static/css/main.31e78005.css.map",
-    "main.c98ef8d7.js.map": "/ArtemiuszKuzniecow/omnis-test/static/js/main.c98ef8d7.js.map"
+    "main.css": "/omnis-test/static/css/main.31e78005.css",
+    "main.js": "/omnis-test/static/js/main.c98ef8d7.js",
+    "index.html": "/omnis-test/index.html",
+    "main.31e78005.css.map": "/omnis-test/static/css/main.31e78005.css.map",
+    "main.c98ef8d7.js.map": "/omnis-test/static/js/main.c98ef8d7.js.map"
   },
   "entrypoints": [
     "static/css/main.31e78005.css",
