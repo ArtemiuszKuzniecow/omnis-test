@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+}
+
+/* (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Internet Explorer, Edge */
+* {
+  -ms-overflow-style: none;
+}

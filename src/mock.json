@@ -1,0 +1,104 @@
+{
+  "mockData": [
+    {
+      "customer_id": "user1",
+      "server_name": "server1",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user5",
+      "server_name": "server2",
+      "server_type": "dedicated"
+    },
+    {
+      "customer_id": "user3",
+      "server_name": "server3",
+      "server_type": "hosting"
+    },
+    {
+      "customer_id": "user2",
+      "server_name": "server4",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user4",
+      "server_name": "server5",
+      "server_type": "dedicated"
+    },
+    {
+      "customer_id": "user6",
+      "server_name": "server6",
+      "server_type": "hosting"
+    },
+    {
+      "customer_id": "user7",
+      "server_name": "server7",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user8",
+      "server_name": "server8",
+      "server_type": "dedicated"
+    },
+    {
+      "customer_id": "user9",
+      "server_name": "server9",
+      "server_type": "hosting"
+    },
+    {
+      "customer_id": "user10",
+      "server_name": "server10",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user11",
+      "server_name": "server11",
+      "server_type": "dedicated"
+    },
+    {
+      "customer_id": "user12",
+      "server_name": "server12",
+      "server_type": "hosting"
+    },
+    {
+      "customer_id": "user13",
+      "server_name": "server13",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user14",
+      "server_name": "server14",
+      "server_type": "dedicated"
+    },
+    {
+      "customer_id": "user15",
+      "server_name": "server15",
+      "server_type": "hosting"
+    },
+    {
+      "customer_id": "user16",
+      "server_name": "server16",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user17",
+      "server_name": "server17",
+      "server_type": "dedicated"
+    },
+    {
+      "customer_id": "user18",
+      "server_name": "server18",
+      "server_type": "hosting"
+    },
+    {
+      "customer_id": "user19",
+      "server_name": "server19",
+      "server_type": "vds"
+    },
+    {
+      "customer_id": "user20",
+      "server_name": "server20",
+      "server_type": "dedicated"
+    }
+  ]
+}
